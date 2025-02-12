@@ -1,4 +1,4 @@
-Step 1: Define the Requirements
+ Define the Requirements
 Hire use for AI Agent Development
 Mahendra Ribadiya AI Master
 AI agent product Architecture and Developer
@@ -17,7 +17,8 @@ Before selecting the technology stack, you need to define the requirements for y
 
     APIs: To integrate with external services (e.g., CRM, calendar, etc.).
 
-Step 2: Select the Technology Stack
+
+Select the Technology Stack
 
 Based on the requirements, here’s a recommended technology stack:
 
@@ -41,7 +42,9 @@ Based on the requirements, here’s a recommended technology stack:
 
     Orchestration: Kubernetes (for managing containers)
 
-Step 3: Design the Architecture
+
+
+Design the Architecture
 
 The architecture of the AI phone agent can be divided into the following components:
 
