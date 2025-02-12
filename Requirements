@@ -3,6 +3,33 @@ Hire use for AI Agent Development
 Mahendra Ribadiya AI Master
 AI agent product Architecture and Developer
 
+
+ai_phone_agent/
+│
+├── app/
+│   ├── __init__.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   └── voice_response.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── voice_recognition.py
+│   │   ├── nlp_engine.py
+│   │   └── text_to_speech.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── call_log.py
+│   └── utils/
+│       ├── __init__.py
+│       └── database.py
+│
+├── requirements.txt
+├── config.py
+├── Dockerfile
+├── docker-compose.yml
+├── run.py
+└── README.md
+
 Before selecting the technology stack, you need to define the requirements for your AI phone agent:
 
     Voice Recognition: The ability to understand spoken language.
